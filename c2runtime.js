@@ -22106,4 +22106,3 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.video.prototype.cnds.HasEnded
 ];};
-
